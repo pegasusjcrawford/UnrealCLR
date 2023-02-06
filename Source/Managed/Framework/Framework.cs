@@ -929,7 +929,9 @@ namespace UnrealEngine.Framework {
 		/// <summary/>
 		R8SInt = 83, 
 		/// <summary/>
-		R64UInt = 84, 
+		R64UInt = 84,
+		/// <summary/>
+		R9G9B9EXP5 = 85,
 	}
 
 	/// <summary>
